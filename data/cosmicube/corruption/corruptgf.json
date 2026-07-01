@@ -1,0 +1,13 @@
+{
+	"type": "speakerSkin",
+	"price": 211,
+	
+	"title": "Corrupted GF",
+	"hint": "Unlocked by achieving a rank of A or higher on Danger",
+	"description": "Our favourite Demon overtaken by the Corruption",
+	
+	"node": {
+		"direction": "north",
+		"parent": "corruptbf"
+	}
+}

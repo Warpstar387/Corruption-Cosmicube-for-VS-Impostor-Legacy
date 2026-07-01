@@ -1,0 +1,16 @@
+{
+	"songs": [
+		["Pretence", "falsethorn", [255, 51, 51], "falsethorn", "Leebert", ["Roots"], 300, true]
+	],
+	
+	"section": "delete",
+	
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Delete (Bonus)",
+	
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"currency": "cubes",
+}

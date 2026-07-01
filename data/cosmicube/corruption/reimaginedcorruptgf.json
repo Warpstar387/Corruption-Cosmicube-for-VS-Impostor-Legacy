@@ -1,0 +1,13 @@
+{
+	"type": "speakerSkin",
+	"price": 626,
+	
+	"title": "Reimagined Corrupted GF",
+	"hint": "Unlocked by achieving a rank of A or higher on Double Kill",
+	"description": "She's just there for moral support while BF corrupts all the Crewmates",
+	
+	"node": {
+		"direction": "west",
+		"parent": "corruptgf"
+	}
+}

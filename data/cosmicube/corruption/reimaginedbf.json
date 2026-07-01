@@ -1,0 +1,13 @@
+{
+	"type": "playerSkin",
+	"price": 626,
+	
+	"title": "Reimagined BF",
+	"hint": "Unlocked by completing Humane Heartbeat",
+	"description": "What's this? a BF that isn't Corrupted? Crazy.",
+	
+	"node": {
+		"direction": "south",
+		"parent": "root"
+	}
+}

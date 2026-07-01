@@ -1,0 +1,13 @@
+{
+	"type": "playerSkin",
+	"price": 626,
+	
+	"title": "Reimagined Corrupted BF",
+	"hint": "Unlocked by achieving a rank of A or higher on Double Kill",
+	"description": "Sometimes it can a good thing to take a step back and reimagine things.",
+	
+	"node": {
+		"direction": "west",
+		"parent": "corruptbf"
+	}
+}

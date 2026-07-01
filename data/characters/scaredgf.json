@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SadIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				8
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SadUp"
+		},
+		{
+			"offsets": [
+				-11,
+				-4
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SadDown"
+		},
+		{
+			"offsets": [
+				9,
+				-1
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SadLeft"
+		},
+		{
+			"offsets": [
+				-21,
+				1
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SadRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf/cosmicube/scaredgf",
+	"position": [
+		40,
+		220
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "icon-gf",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -4909546,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,1 @@
+After extracting the zip file, move the Corruption folder over to the Content folder where the mod is located. Should be structured Vs Impostor Legacy,Content.Corruption.

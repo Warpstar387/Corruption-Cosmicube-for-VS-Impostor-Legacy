@@ -1,0 +1,13 @@
+{
+	"type": "playerSkin",
+	"price": 211,
+	
+	"title": "Corrupted BF",
+	"hint": "Unlocked by achieving a rank of A or higher on Danger",
+	"description": "Our favourite blue haired friend overtaken by the Corruption",
+	
+	"node": {
+		"direction": "west",
+		"parent": "root"
+	}
+}

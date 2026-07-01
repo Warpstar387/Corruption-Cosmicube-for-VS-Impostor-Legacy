@@ -1,0 +1,13 @@
+{
+	"type": "playerSkin",
+	"price": 411,
+	
+	"title": "Null",
+	"hint": "Unlocked by beating Delete",
+	"description": "Senpai has been reduced to nothing more than a mere visualiser. Quite sad really.",
+	
+	"node": {
+		"direction": "east",
+		"parent": "root"
+	}
+}

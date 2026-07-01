@@ -1,0 +1,13 @@
+{
+	"type": "speakerSkin",
+	"price": 626,
+	
+	"title": "Reimagined GF",
+	"hint": "Unlocked by completing Humane Heartbeat",
+	"description": "She's trying her best but she's unable to cheer Reimagined BF up",
+	
+	"node": {
+		"direction": "south",
+		"parent": "reimaginedbf"
+	}
+}

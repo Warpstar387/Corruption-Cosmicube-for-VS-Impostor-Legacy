@@ -1,0 +1,41 @@
+28/04/2026
+Inital Release:
+Includes 2 skins - Corrupted BF and GF
+Corrupted BF has a different health bar color compared to BF as well a different neutral/losing icon. Also includes a custom game over as well.
+Please note that the camera doesn't zoom over for the game over. This is because in the original Corruption Spookez Demo the camera also doesn't zoom over so I was unable to make it work for this mod as well.
+29/04/2026
+Added 4 new skins - Reimagined Corrupted BF and GF as well as their uncorrupted counterparts.
+Fixed some grammar on the Corrupted BF and GF descriptions in the cosmicube.
+Changed the unlock conditions for Corrupted BF and GF. To unlock them you now have to get an A rank or higher on Double Kill.
+Updated the credits to include the people who worked on Corruption Reimagined as well as the build where the sprites come from.
+29/04/2026
+Added the inital release to the top of the changelog file.
+Shrunk the image that appears on the cosmicube so the top and bottom parts don't appear outside of the box.
+30/04/2026
+Added a new custom currency. Cubes in reference to the same cube that The Harvester uses in Corruption (image is subject to change). Also includes a custom sound effect when collecting them. Uses the Cancel Menu Sound from the Senpai Demo (is also subject to change).
+Added installation instructions on the off chance that someone needs help installing it.
+Changed the Credits listing Dyan and Kumorii as 2 different people despite this not being the case.
+02/05/2026
+Added 2 new skins - Trance GF and Serious GF. Currently uses the same game over as BF (will see about doing a custom gameover for GF).
+Added New Menu Music - Based off of the menu music from the Corruption Senpai Demo (if too many people don't like I will remove it in a future update).
+Changed the getting Cubes sound to Confirm Menu Sound from the Corruption Senpai Demo.
+02/05/2026
+Surprise new skin - Scared GF.
+04/05/2026
+Added 4 new songs - Senpai-Remix, Dead-Pixel, Treacherous-Thorns and Roots. Can be accessed in Story Mode by going Left from the spawn point. Can also be accessed in Freeplay.
+Updated the credits for the Corruption Senpai Demo Menu Music as well as the new songs added as well as the charting.
+04/05/2026
+Small Bug fix where the correct character wouldn't show up in Dead-Pixel and Treacherous-Thorns.
+Disabled Pets and Skins for the recently added songs.
+06/05/2026
+Added 1 new song to Freeplay - Pretence. To unlock, you need to beat the Delete Week.
+Added 2 new skins - Null and Restored Senpai. (note that Null doesn't have an idle animation due to it originally being an mp4).
+Fixed the Senpai from Treacherous Thorns appearing in Dank Bars as well.
+Increased the scroll speed of Senpai Remix and Roots to 2X.
+Changed the BF in Roots from BF Pixel to BFsus-pixel.
+Changed the Menu Music to one from the Null Demo.
+Updated the credits.
+06/05/2026
+Disabled pets and skins being able to be used in Pretence.
+07/05/2026
+Fixed the bug where you would not be able to unlock Pretence. Now it is unlocked from the beginning but costs 300 cubes to unlock.
