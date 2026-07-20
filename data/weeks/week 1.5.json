@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Spookeez Remix", "spookyD1", [255, 170, 111], "spookyD1", "RenRenNumberTen"],
+		["Sanguine South", "spookyD2", [255, 170, 111], "spookyD2", "SimplyCrispy, fluffyhairs"],
+		["Chiller", "spookyD3", [255, 170, 155], "spookyD3", "SimplyCrispy, fluffyhairs"]
+	],
+	
+	"section": "corruption",
+	
+	"storyName": "Good Times Must End",
+	"weekBefore": "week 0",
+	"weekName": "Week 1.5",
+	
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"currency": "cubes",
+	
+	"node": {
+		"parent": "root",
+		"direction": "west"
+	}
+}

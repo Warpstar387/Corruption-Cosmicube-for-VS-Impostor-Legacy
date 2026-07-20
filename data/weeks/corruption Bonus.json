@@ -1,0 +1,15 @@
+{
+	"songs": [
+		["Pretence", "pretencebf", [84, 167, 202], "pretencebf", "Leebert, Zeroh, Razor, Aurecraft", [], 211]
+		],
+	
+	"section": "corruption Bonus",
+	
+	"storyName": "",
+	"weekName": "Corruption Bonus",
+	
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"currency": "cubes"
+}

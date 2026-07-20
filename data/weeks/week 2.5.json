@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Senpai Remix", "senpai", [255, 170, 111], "senpai", "DatDavi"],
+		["Dead Pixel", "senpai-corrupt", [255, 170, 111], "senpai-corrupt", "Jellyfish"],
+		["Treacherous Thorns", "senpaiannoyed", [255, 170, 155], "senpai-pissed", "DatDavi"],
+		["Roots", "spirit-crazy", [0, 255, 0], "spirit-crazy", "Gryscl"]
+	],
+	
+	"section": "corruption",
+	
+	"storyName": "Delete",
+	"weekBefore": "week 1.5",
+	"weekName": "Week 2.5",
+	
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"currency": "cubes",
+	
+	"node": {
+		"parent": "week 1.5",
+		"direction": "west"
+	}
+}
