@@ -59,8 +59,8 @@
 	"no_antialiasing": true,
 	"image": "characters/delete/bf/bfGlitch",
 	"position": [
-		140,
-		360
+		230,
+		530
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
@@ -72,8 +72,8 @@
 	"flip_x": true,
 	"healthbar_colour": -12969137,
 	"camera_position": [
-		200,
-		10
+		140,
+		-50
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 4,
