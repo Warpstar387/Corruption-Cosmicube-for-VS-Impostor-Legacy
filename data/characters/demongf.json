@@ -1,0 +1,226 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				20,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RageUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-40,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RageDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				130,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RageLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RageRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				10
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "buildFirst",
+			"indices": [],
+			"name": "RageBuildFirst"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "buildSecond",
+			"indices": [],
+			"name": "RageBuildSecond"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RageIdle"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				330,
+				-30
+			],
+			"anim": "prepLeft",
+			"fps": 24,
+			"name": "RagePrepLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				40,
+				-20
+			],
+			"anim": "prepRight",
+			"fps": 24,
+			"name": "RagePrepRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				354,
+				-10
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "RagePunch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				377,
+				-40
+			],
+			"anim": "stopping",
+			"fps": 24,
+			"name": "RageStopping",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				3,
+				-24
+			],
+			"anim": "trapped",
+			"fps": 24,
+			"name": "RageTrapped",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "RageBuildSecond",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/return null/gf/demongf",
+	"position": [
+		40,
+		220
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {
+		"customMonotone": "trancegf",
+		"defeatRetro": "trancegf"
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": "gf game over continue",
+	"healthicon": "icon-demongf",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -4909546,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": "gf game over",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

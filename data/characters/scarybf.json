@@ -3,77 +3,77 @@
 		{
 			"loop": false,
 			"offsets": [
-				-200,
-				-280
+				7,
+				0
 			],
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left_"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				170,
-				110
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "spirit down_"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-220,
-				-280
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right_"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-220,
-				-240
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up_"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-218,
-				-280
-			],
 			"anim": "idle",
-			"fps": 20,
-			"name": "idle spirit_",
+			"indices": [],
+			"name": "BF IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN NOTE",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/delete/spirit/neutralspirit",
+	"image": "characters/delete/bf/scarybf",
 	"position": [
-		50,
-		300
+		-10,
+		350
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "icon-spirit",
+	"healthicon": "icon-glitchedbf",
 	"gameover_character": null,
 	"vslice_sustains": false,
-	"flip_x": false,
-	"healthbar_colour": -65536,
+	"flip_x": true,
+	"healthbar_colour": -13585967,
 	"camera_position": [
-		100,
-		50
+		10,
+		-75
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 4,
