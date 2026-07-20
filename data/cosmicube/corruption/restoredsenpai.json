@@ -3,11 +3,10 @@
 	"price": 629,
 	
 	"title": "Restored Senpai",
-	"hint": "Unlocked by beating Delete",
 	"description": "Well he certaintly seems to be in a better position then when Corrupted",
 	
 	"node": {
 		"direction": "east",
-		"parent": "null"
+		"parent": "momCorrupt"
 	}
 }

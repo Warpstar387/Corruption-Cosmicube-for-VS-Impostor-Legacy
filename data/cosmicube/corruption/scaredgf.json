@@ -1,13 +1,12 @@
 {
 	"type": "playerSkin",
-	"price": 0,
+	"price": 629,
 	
 	"title": "Scared GF",
-	"hint": "Unlocked by achieving a rank of A or higher on Esculent",
 	"description": "She might not be as brave but she's still willing to fight",
 	
 	"node": {
 		"direction": "south",
-		"parent": "seriousgf"
+		"parent": "root"
 	}
 }

@@ -7,7 +7,7 @@
 	"description": "She's trying her best but she's unable to cheer Reimagined BF up",
 	
 	"node": {
-		"direction": "south",
+		"direction": "west",
 		"parent": "reimaginedbf"
 	}
 }

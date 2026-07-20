@@ -1,0 +1,21 @@
+{
+    "type": "pet",
+    "price": 404,
+   
+    "title": "Mini Spirit",
+    "description": "he's a Spirit but a pet as well?",
+    "requirement": "A",
+	"song": "roots",
+    "hint": "Unlocked by achieving a rank of A or higher on Roots",
+   
+    "node": {
+        "direction": "east",
+        "parent": "restoredsenpai"
+    },
+   
+    "color": [
+        210,
+        10,
+        45
+    ]
+}

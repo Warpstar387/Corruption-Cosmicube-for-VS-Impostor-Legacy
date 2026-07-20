@@ -3,11 +3,10 @@
 	"price": 629,
 	
 	"title": "Trance GF",
-	"hint": "Unlocked by achieving a rank of A or higher on Victory",
 	"description": "Looks like GF is finally helping out. But is she doing okay?",
 	
 	"node": {
 		"direction": "south",
-		"parent": "corruptbf"
+		"parent": "demongf"
 	}
 }

@@ -7,7 +7,7 @@
 	"description": "She's just there for moral support while BF corrupts all the Crewmates",
 	
 	"node": {
-		"direction": "west",
-		"parent": "corruptgf"
+		"direction": "north",
+		"parent": "reimaginedcorruptbf"
 	}
 }

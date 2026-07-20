@@ -1,0 +1,21 @@
+{
+    "type": "pet",
+    "price": 404,
+   
+    "title": "Mini Glitch BF",
+    "description": "Who wouldn't want this lil guy as a Pet?",
+    "requirement": "A",
+	"song": "roots",
+    "hint": "Unlocked by achieving a rank of A or higher on Roots",
+   
+    "node": {
+        "direction": "south",
+        "parent": "bfGlitch"
+    },
+   
+    "color": [
+        0,
+        0,
+        0
+    ]
+}

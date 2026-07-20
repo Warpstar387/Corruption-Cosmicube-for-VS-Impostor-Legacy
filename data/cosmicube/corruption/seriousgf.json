@@ -3,11 +3,10 @@
 	"price": 629,
 	
 	"title": "Serious GF",
-	"hint": "Unlocked by achieving a rank of A or higher on Double Trouble",
 	"description": "She's ready to throw down with any impostor that stands between her and BF",
 	
 	"node": {
 		"direction": "south",
-		"parent": "trancegf"
+		"parent": "scaredgf"
 	}
 }

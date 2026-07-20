@@ -1,0 +1,21 @@
+{
+    "type": "pet",
+    "price": 171,
+   
+    "title": "Mini Falsethorn",
+    "description": "a Tree as well as a Pet. Wait is he even real?",
+    "requirement": "A",
+	"song": "pretence",
+    "hint": "Unlocked by achieving a rank of A or higher on Pretence",
+   
+    "node": {
+        "direction": "south",
+        "parent": "glitchbfpet"
+    },
+   
+    "color": [
+        150,
+        75,
+        0
+    ]
+}

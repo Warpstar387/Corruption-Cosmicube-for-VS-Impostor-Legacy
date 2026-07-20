@@ -2,13 +2,13 @@
 	"type": "playerSkin",
 	"price": 211,
 	
-	"title": "Corrupted BF",
-	"description": "you've gotta wonder how the microphone isn't corrupted as well",
+	"title": "Corrupted BF Alt",
+	"description": "This one is just breaking the 4th wall.",
 	"week": "week 1.5",
 	"hint": "Unlocked by beating Good Times Must End",
 	
 	"node": {
 		"direction": "west",
-		"parent": "root"
+		"parent": "corruptbf"
 	}
 }

@@ -8,6 +8,6 @@
 	
 	"node": {
 		"direction": "west",
-		"parent": "corruptbf"
+		"parent": "corruptbfalt"
 	}
 }

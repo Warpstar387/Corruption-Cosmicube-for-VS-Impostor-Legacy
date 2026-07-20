@@ -1,0 +1,14 @@
+{
+	"type": "playerSkin",
+	"price": 404,
+	
+	"title": "Glitch BF",
+	"description": "This Corrupted BF Variant floats so it's automatically cooler than the others.",
+	"week": "week 1.5",
+	"hint": "Unlocked by beating the Delete week",
+	
+	"node": {
+		"direction": "south",
+		"parent": "corruptbf"
+	}
+}

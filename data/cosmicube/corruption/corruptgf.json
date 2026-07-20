@@ -3,8 +3,9 @@
 	"price": 211,
 	
 	"title": "Corrupted GF",
-	"hint": "Unlocked by achieving a rank of A or higher on Danger",
+	"hint": "Unlocked by beating Good Times Must End",
 	"description": "Our favourite Demon overtaken by the Corruption",
+	"week": "week 1.5",
 	
 	"node": {
 		"direction": "north",
