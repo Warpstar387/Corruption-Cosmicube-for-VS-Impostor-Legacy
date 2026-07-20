@@ -1,5 +1,4 @@
 {
-	"pausePortrait": "",
 	"animations": [
 		{
 			"loop": false,
@@ -58,18 +57,16 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/delete/spirit/spirit-crazy",
+	"image": "characters/delete/spirit/neutralspirit",
 	"position": [
 		-150,
 		100
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
-	"flags": {},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "spirit-crazy",
-	"afterimages": true,
+	"healthicon": "icon-spirit",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": false,
