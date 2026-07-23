@@ -1,0 +1,846 @@
+{
+	"song": {
+		"events": [
+			[
+				78.9473684210526,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				5131.57894736842,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				10184.2105263158,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				15236.8421052632,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				20289.4736842105,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				22026.3157894737,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				22105.2631578947,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				22184.2105263158,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				22342.1052631579,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				24552.6315789474,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				24631.5789473684,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				24710.5263157895,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				24868.4210526316,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				24947.3684210526,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				25342.1052631579,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				30394.7368421053,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				35447.3684210526,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				40578.9473684211,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					],
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				40657.8947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				40894.7368421053,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				40973.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				41052.6315789474,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				45552.6315789474,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				50605.2631578947,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				51157.8947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				53131.5789473684,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				53763.1578947368,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				55657.8947368421,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				60710.5263157894,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				61657.8947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				61973.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				63631.5789473684,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				64184.2105263158,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				65763.1578947368,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				70815.7894736842,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				70894.7368421052,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				70973.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				71210.5263157894,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				71289.4736842105,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				71368.4210526315,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				72078.947368421,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				73342.1052631578,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				74605.2631578947,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				75868.4210526315,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				77131.5789473684,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				78394.7368421052,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				79657.894736842,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				80921.0526315789,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				83131.5789473683,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				85499.9999999999,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				85815.7894736841,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				85973.6842105262,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				91026.3157894736,
+				[
+					[
+						"Set Cam Pos",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				91578.947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				93552.6315789473,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit-crazythorns"
+					],
+					[
+						"Change Character",
+						"gf",
+						"no-gf"
+					]
+				]
+			],
+			[
+				94184.2105263157,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpai-pissed"
+					],
+					[
+						"Change Character",
+						"gf",
+						"oneyegf"
+					]
+				]
+			],
+			[
+				96078.947368421,
+				[
+					[
+						"Set Cam Pos",
+						"bf",
+						""
+					]
+				]
+			]
+		]
+	}
+}
